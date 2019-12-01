@@ -1,0 +1,10 @@
+{
+  "name": "leetcode-playground",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "watch -f test.js -r \"node test.js > test.log\""
+  },
+  "dependencies": {
+    "cli-watch": "^1.0.7"
+  }
+}
