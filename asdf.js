@@ -1,3 +1,4 @@
 const c = console.log.bind(console);
 //=============
-c("hi1");
+
+c("hi2");
